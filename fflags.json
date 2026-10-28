@@ -4,8 +4,6 @@
     "DFIntCSGLevelOfDetailSwitchingDistanceL23": 600,
     "DFIntCSGLevelOfDetailSwitchingDistanceL34": 400,
     "FFlagHandleAltEnterFullscreenManually": true,
-    "DFFlagTextureQualityOverrideEnabled": true,
-    "DFIntTextureQualityOverride": 3,
     "FIntDebugForceMSAASamples": 4,
     "DFFlagDisableDPIScale": true,
     "FFlagDebugGraphicsPreferD3D11": false,
